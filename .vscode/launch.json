@@ -1,5 +1,6 @@
 {
     "configurations": [
+        
         {
             "command": "npm start",
             "name": "Run npm start",
