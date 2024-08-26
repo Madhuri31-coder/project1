@@ -1,7 +1,7 @@
 {
   "_version": "1.59.0",
   "sap.app": {
-    "id": "project1",
+    "id": "z.project3",
     "type": "application",
     "i18n": "i18n/i18n.properties",
     "applicationVersion": {
@@ -13,7 +13,7 @@
     "sourceTemplate": {
       "id": "@sap/generator-fiori:basic",
       "version": "1.14.4",
-      "toolsId": "235ee3d2-35a9-47c4-9c07-23653039f4d5"
+      "toolsId": "2e1076f8-ddb1-44e4-aebf-88bd92869067"
     }
   },
   "sap.ui": {
@@ -55,7 +55,7 @@
       "i18n": {
         "type": "sap.ui.model.resource.ResourceModel",
         "settings": {
-          "bundleName": "project1.i18n.i18n"
+          "bundleName": "z.project3.i18n.i18n"
         }
       }
     },
@@ -71,7 +71,7 @@
         "routerClass": "sap.m.routing.Router",
         "viewType": "XML",
         "async": true,
-        "viewPath": "project1.view",
+        "viewPath": "z.project3.view",
         "controlAggregation": "pages",
         "controlId": "app",
         "clearControlAggregation": false
@@ -96,7 +96,7 @@
       }
     },
     "rootView": {
-      "viewName": "project1.view.App",
+      "viewName": "z.project3.view.App",
       "type": "XML",
       "async": true,
       "id": "App"

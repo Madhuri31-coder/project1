@@ -4,7 +4,7 @@ sap.ui.define([
 function (Controller) {
     "use strict";
 
-    return Controller.extend("project1.controller.View1", {
+    return Controller.extend("z.project3.controller.View1", {
         onInit: function () {
 
         }

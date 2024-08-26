@@ -1,11 +1,7 @@
-<mvc:View controllerName="z.project2.controller.View1"
+<mvc:View controllerName="project1.controller.View1"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
-    xmlns="sap.m"
-    xmlns:table="sap.ui.table">
-    
+    xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
-        <content
-    />
-</Page> 
+        <content />
+    </Page>
 </mvc:View>
-

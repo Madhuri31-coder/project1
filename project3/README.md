@@ -1,23 +1,23 @@
 ## Application Details
 |               |
 | ------------- |
-|**Generation Date and Time**<br>Mon Aug 26 2024 11:36:49 GMT+0530 (India Standard Time)|
+|**Generation Date and Time**<br>Mon Aug 26 2024 11:39:35 GMT+0530 (India Standard Time)|
 |**App Generator**<br>@sap/generator-fiori-freestyle|
 |**App Generator Version**<br>1.14.4|
 |**Generation Platform**<br>Visual Studio Code|
 |**Template Used**<br>simple|
 |**Service Type**<br>None|
 |**Service URL**<br>N/A|
-|**Module Name**<br>project1|
+|**Module Name**<br>project3|
 |**Application Title**<br>App Title|
-|**Namespace**<br>|
+|**Namespace**<br>z|
 |**UI5 Theme**<br>sap_horizon|
 |**UI5 Version**<br>1.127.1|
 |**Enable Code Assist Libraries**<br>False|
 |**Enable TypeScript**<br>False|
 |**Add Eslint configuration**<br>False|
 
-## project1
+## project3
 
 An SAP Fiori application.
 
