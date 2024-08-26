@@ -1,6 +1,6 @@
-sap.ui.isview("ui5_table_odata.TABLE_VIEW",{
+sap.ui.isview("project4.TABLE_VIEW",{
     GetControllerName : function() {
-        return "ui5_table_odata.TABLE_VIEW";
+        return "project4.TABLE_VIEW";
 
     },
 
